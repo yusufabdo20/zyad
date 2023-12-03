@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26129826256",
+    "project_id": "zyad-project",
+    "storage_bucket": "zyad-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26129826256:android:12ce27a424e71b7d76b9d5",
+        "android_client_info": {
+          "package_name": "com.example.zyad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47Uvl901ZGSdX2fRq0u9jDkCYLXfIcY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
